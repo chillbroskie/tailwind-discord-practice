@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsFillLightningFill, BsPlus, BsGearFill } from "react-icons/bs";
+import { BsFillLightningFill, BsPlus } from "react-icons/bs";
 import { FaFire, FaPoo } from 'react-icons/fa';
 
 const SideBar = () => {
