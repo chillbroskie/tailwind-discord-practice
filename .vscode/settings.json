@@ -1,3 +1,7 @@
 {
-  "oneDarkPro.editorTheme": "One Dark Pro Darker"
+  "oneDarkPro.editorTheme": "One Dark Pro Darker",
+  "cSpell.words": [
+    "browserslist",
+    "compat"
+  ]
 }
